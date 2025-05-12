@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+.navbar-link {
+  color: rgb(0, 0, 0);
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.navbar-link:hover {
+  text-decoration: underline;
+}
+
+.about {
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.about h2 {
+  color: #000000;
+}
+
+
+.projects {
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.projects h2 {
+  color: #000000;
+}
+
+
+.contact {
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.contact h2 {
+  color: #000000;
+}
+
